@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+/*
+/*	Copyright (c) 2023 junaidbinjaman.com
+/*	Author: Junaid Bin Jaman
+/*	This file is made for CURRENT TEMPLATE
+
+1) GLOBAL CLASSES
+02) INPUT BORDER ERROR
+
+/*---------------------------------------------------*/
+/*	01) GLOBAL CLASSES
+/*---------------------------------------------------*/
+
+.sofi-admin-hide{
+    display: none;
+}
+
+.sofi-admin-show {
+    display: block !important;
+}
+
+code {
+    background-color: black;
+    color: white;
+}
+
+/*---------------------------------------------------*/
+/*	01) INPUT ERROR
+/*---------------------------------------------------*/
+
+.sofi-error-input-border:focus {
+    border: 1px solid red !important;
+}
+
+.sofi-max-char-limit-error {
+    color: red;
+}
