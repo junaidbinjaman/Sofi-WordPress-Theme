@@ -64,7 +64,3 @@ If you encounter any issues or have questions, please [open an issue](https://gi
 - Email - [me@junaidbinjaman.com](mailto:me@junaidbinjaman.com)
 - Website [https:junaidbinjaman.com](https:junaidbinjaman.com)
 - Social media: [Instagram](https://www.instagram.com/junaidbinjaman/) [LinkedIN](https://www.linkedin.com/in/junaid-bin-jaman-5b75a7181/)
-
-## Screenshot
-
-![Sofi Theme Screenshot](screenshot.png)
