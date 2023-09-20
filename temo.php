@@ -1,6 +1,8 @@
 <?php
 /**
  * Template Name: Temp
+ *
+ * @package Sofi
  */
 
 get_header();
